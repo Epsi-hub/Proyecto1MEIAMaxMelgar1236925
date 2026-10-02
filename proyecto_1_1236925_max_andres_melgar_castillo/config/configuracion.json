@@ -1,0 +1,12 @@
+{
+    "nombre_sistema": "Sistema Integral de Gestión y Recuperación de Información",
+    "version": "1.0",
+    "archivo_principal": "data/registros.csv",
+    "formato_principal": "CSV",
+    "archivo_exportacion": "exports/registros.xml",
+    "carpeta_indices": "indices",
+    "carpeta_logs": "logs",
+    "carpeta_respaldos": "backups",
+    "algoritmo_integridad": "SHA-256",
+    "tamanio_tabla_hash": 10
+}
